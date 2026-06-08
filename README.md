@@ -6,7 +6,7 @@ A Spring Boot RESTful API project built for the **ITS 1114 - Advanced Applicatio
 
 | Technology         | Version |
 | ------------------ | ------- |
-| Java               | 21      |
+| Java               | 17      |
 | Spring Boot        | 4.0.6   |
 | Spring Data JPA    | —       |
 | MySQL              | 8.x     |
