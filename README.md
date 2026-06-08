@@ -73,8 +73,8 @@ Base path: `/v1/api/customers`
 ```json
 {
   "id": 0,
-  "name": "Hasitha Lakshan",
-  "phone": "0771234567",
+  "name": "Kaumini Warangana",
+  "phone": "0703073428",
   "address": "123, Main Street, Colombo"
 }
 ```
@@ -83,8 +83,8 @@ Base path: `/v1/api/customers`
 ```json
 {
   "id": 1,
-  "name": "Hasitha Lakshan",
-  "phone": "0771234567",
+  "name": "Kaumini Warangana",
+  "phone": "0703073428",
   "address": "123, Main Street, Colombo"
 }
 ```
